@@ -1,5 +1,11 @@
+/home/runner/Solid/src/main/java/ocp/NotificationService.java
 /home/runner/Solid/src/main/java/srp/UserValidator.java
 /home/runner/Solid/src/main/java/srp/Main.java
+/home/runner/Solid/src/main/java/ocp/Notification.java
+/home/runner/Solid/src/main/java/ocp/SMSNotification.java
+/home/runner/Solid/src/main/java/ocp/PushNotification.java
 /home/runner/Solid/src/main/java/srp/NotificationService.java
+/home/runner/Solid/src/main/java/ocp/EmailNotification.java
 /home/runner/Solid/src/main/java/srp/UserManager.java
 /home/runner/Solid/src/main/java/srp/UserRepository.java
+/home/runner/Solid/src/main/java/ocp/Main.java
