@@ -7,4 +7,6 @@ Capturas de ejercicios
 ![image](https://github.com/user-attachments/assets/f691b72e-7368-4ac7-9c09-f1f9dc21cc59)
 ## ISP
 ![image](https://github.com/user-attachments/assets/a4768e04-763e-44c2-8806-57f50d099d44)
+## DIP
+![image](https://github.com/user-attachments/assets/a74c525e-51a8-4c24-98ee-948332c98c84)
 
